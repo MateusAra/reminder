@@ -27,7 +27,6 @@ internal class Program
                     {
                         case '1':
                             RegisterReminder();
-                            Console.WriteLine("teste");
                             break;
                         case '2':
                             ListReminders();
